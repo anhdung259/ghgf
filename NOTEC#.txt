@@ -1,0 +1,214 @@
+(FAIC HCM-B? môn) H? Hoàn Ki?m14:19
+hi lop
+Nguyen Tran Phuong Hai (K13_HCM)14:20
+hi th?y
+(FAIC HCM-B? môn) H? Hoàn Ki?m14:20
+??
+(FAIC HCM-B? môn) H? Hoàn Ki?m14:24
+Vào google drive ( b?n nào t?i r?i thì kh?i )
+https://drive.google.com/drive/u/0/folders/0BzFxYY7o4Oc9TS1iLXVxUlQzb00
+1. Downlaod toàn b? thu m?c : IntroADO_NET_New
+2. M? t?p tin IntroADO_NET.sln trong thu m?c : IntroADO_NET_New \ IntroADO_NET
+3. Ch?y t?p tin ManagerDB.sql d? t?o database 
+4. Ki?m tra l?i ServerName\InstanceName , account c?a user sa 
+Nguyen Van Hung (K13_HCM)14:24
+th?y có di?u gì mu?n nói à th?y
+(FAIC HCM-B? môn) H? Hoàn Ki?m14:25
+????????
+(FAIC HCM-B? môn) H? Hoàn Ki?m14:27
+Vào google drive ( b?n nào t?i r?i thì kh?i )
+https://drive.google.com/drive/u/0/folders/0BzFxYY7o4Oc9TS1iLXVxUlQzb00
+1. Downlaod toàn b? thu m?c : IntroADO_NET_New
+2. M? t?p tin IntroADO_NET.sln trong thu m?c : IntroADO_NET_New \ IntroADO_NET
+3. Ch?y t?p tin ManagerDB.sql d? t?o database 
+4. Ki?m tra l?i ServerName\InstanceName , account c?a user sa 
+Nguyen Anh Quan14:27
+ok th?y
+gi? m?i down
+Nguyen Khanh Duy (K13_HCM)14:27
+ok th?y
+Dang Hieu Thang (K13_HCM)14:32
+b? out liên t?c @@
+(K12 _ HCM) Bui Duc Cuong14:32
+?a th?y oi db là dùng mysql workbench h? th?y 
+B?n14:32
+ch?y sql nó báo Msg 15048, Level 16, State 1, Line 1
+Valid values of the database compatibility level are 90, 100, or 110.
+Msg 102, Level 15, State 6, Line 1
+Incorrect syntax near 'DELAYED_DURABILITY'.
+b? sao ?
+(K12 _ HCM) Bui Duc Cuong14:33
+?a em m? cái file dó 
+nó auto m? b?ng workbench á th?y :))) 
+(FAIC HCM-B? môn) H? Hoàn Ki?m14:34
+Vào google drive ( b?n nào t?i r?i thì kh?i )
+https://drive.google.com/drive/u/0/folders/0BzFxYY7o4Oc9TS1iLXVxUlQzb00
+1. Downlaod toàn b? thu m?c : IntroADO_NET_New
+2. M? t?p tin IntroADO_NET.sln trong thu m?c : IntroADO_NET_New \ IntroADO_NET
+3. Ch?y t?p tin ManagerDB.sql d? t?o database trong Microsoft SQL Server.
+4. Ki?m tra l?i ServerName\InstanceName , account c?a user sa trong Microsoft SQL Server.
+
+Nguyen Anh Quan14:34
+t?o db r?i làm dì n?a th?y
+r?i th?y
+B?n14:35
+xong r th?y
+Nguyen Van Hung (K13_HCM)14:36
+xong g?i th?y
+(FAIC HCM-B? môn) H? Hoàn Ki?m14:41
+ResultSet
+ADO : Recordset
+ADO.NET :  DataReader ( read -- only
+DataAdapter ( CRUD )
+Trinh Phuc Loc (K13_HCM)14:47
+Msg 15048, Level 16, State 1, Line 1
+Valid values of the database compatibility level are 90, 100, or 110.
+Msg 102, Level 15, State 6, Line 1
+Incorrect syntax near 'DELAYED_DURABILITY'. em dùng sql server mà b? l?i này ?
+d? ok th?y :v
+Nguyen Van Hung (K13_HCM)14:52
+rox
+rõ
+(FAIC HCM-B? môn) H? Hoàn Ki?m14:54
+ADO.NET
+DataSet
+ResultSet - Recordset - DataReader
+(FAIC HCM-B? môn) H? Hoàn Ki?m14:58
+Data Binding
+Two-Way
+Nguyen Anh Quan14:59
+l?i ngay ch? cnn.Open th?y
+Nguyen Van Hung (K13_HCM)14:59
+chua validate id
+Nguyen Anh Quan15:00
+l?i ngay cnn.Open thì s?a s th?y
+ok th?y
+TuTai Nguyen15:01
+trong chu?i k?t n?i server=. là j th?y
+Nguyen Van Hung (K13_HCM)15:01
+s?a trong App.config ?y ông
+Nguyen Song Toan (K13_HCM)15:04
+ok con ch?y dc r th?y
+Nguyen Anh Quan15:04
+ok h?t r th?y
+Dang Hieu Thang (K13_HCM)15:04
+the c# project is targeting .netframework version=v4.6.2 which is not installed 
+Dang Hieu Thang (K13_HCM)15:06
+D?. Em c?m on th?y!!
+Dang Hieu Thang (K13_HCM)15:07
+Ch?y ngon lành rùi th?y
+Nguyen Anh Quan15:12
+2 th?y
+TuTai Nguyen15:14
+.
+Trinh Phuc Loc (K13_HCM)15:14
+.
+Nguyen Anh Quan15:14
+.
+Nguyen Song Toan (K13_HCM)15:14
+.
+co thay
+lag 
+Ngh? Mai15:14
+.
+Nguyen Khanh Duy (K13_HCM)15:15
+.
+Nguyen Hoang Thien (K13_HCM)15:15
+.
+Nguyen Tran Phuong Hai (K13_HCM)15:15
+.
+Nguyen Cong Khanh (K13_HCM)15:15
+.
+Pham Le Tan Thinh (K13_HCM)15:15
+.
+Dang Hieu Thang (K13_HCM)15:15
+.
+Le Duc Thinh thinh15:15
+.
+Pham Le Tan Thinh (K13_HCM)15:15
+.
+B?n15:15
+.
+Nguyen Van Hung (K13_HCM)15:15
+.
+Phu Lê15:16
+.
+Do Nguyen Quang Huy15:16
+. 
+Nguyen Thai Huy15:16
+.
+(K12 _ HCM) Bui Duc Cuong15:16
+.
+Dao Thanh Phuong K13_HCM15:16
+.
+K12 _ HCM Pham Nguyen Hoai Linh15:16
+.
+(K12 _ HCM) Pham Tran Khanh Duy15:16
+.
+Nguyen Van Hung (K13_HCM)15:17
+roi thay
+Dang Hieu Thang (K13_HCM)15:18
+Rùi th?y
+Nguyen Anh Quan15:18
+rooif thaafy oi
+Nguyen Van Hung (K13_HCM)15:19
+ch? k?t n?i dùng EntityFramework di th?y :D
+em bi?t xài r?i :3
+Le Duc Thinh thinh15:20
+th?c hành thì sao th?y
+Nguyen Van Hung (K13_HCM)15:21
+pracrical xài winform hay vi?t library th?y
+practical
+(FAIC HCM-B? môn) H? Hoàn Ki?m15:21
+win /. web from
+form
+assemblies
+Trinh Phuc Loc (K13_HCM)15:24
+?a th?y v?y cu?i cùng sao cái kia nó d?i v?y th?y
+không luôn th?y
+Nguyen Van Hung (K13_HCM)15:25
+v?n d? gì v th?y
+Nguyen Tran Phuong Hai (K13_HCM)15:25
+3 dòng này nè th?y
+lstBookName.DataSource = bookList;
+            lstBookName.DisplayMember = "BookTitle";
+            lstBookName.ValueMember = "BookID";
+Le Duc Thinh thinh15:26
+vì 2 thàng d?u s? d?ng chung bookList
+Dang Hieu Thang (K13_HCM)15:26
+:v em di chuy?n nó dâu theo th?y!
+Nguyen Van Hung (K13_HCM)15:27
+set selected à th?y
+Nguyen Song Toan (K13_HCM)15:27
+e di chuyen no cung ko theo thay uii
+khong theo :)))
+Dang Hieu Thang (K13_HCM)15:28
+Bài em không theo nhu th?y n?a @@
+Nguyen Van Hung (K13_HCM)15:28
+c?a em cung zi
+TuTai Nguyen15:28
+thi?u 3 dòng cu?i tso v?i th?y á
+Nguyen Tran Phuong Hai (K13_HCM)15:28
+trong code ko có 3 cái dòng kia á th?y
+Le Duc Thinh thinh15:28
+dòng 48 vs 50 h? th?y
+(FAIC HCM-B? môn) H? Hoàn Ki?m15:29
+Data Binding
+WPF
+Nguyen Van Hung (K13_HCM)15:29
+em tu?ng Data Binding ch? có th?ng WPF m?i có
+(FAIC HCM-B? môn) H? Hoàn Ki?m15:30
+1 . Xem k? demo CRUD 
+vi?t code tay 
+không dung Auto cua DataAdapter
+(FAIC HCM-B? môn) H? Hoàn Ki?m15:31
+2 . Data base có 7 b?ng , l?y 1 b?ng vi?t CRUFD, tìm ki?m
+theo ID
+theo ten
+(like)
+Nguyen Anh Quan15:32
+là mình t? vi?t l?i 1 bài m?i dúng hk th?y
+ok th?y
+
+
+???????????????????????????????
